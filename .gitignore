@@ -1,0 +1,10 @@
+**/__pycache__/
+*.py[cod]
+
+**/node_modules/
+**/data/
+**/database/
+
+**/.DS_Store
+
+**/.vscode
